@@ -136,6 +136,17 @@ form ion-icon{
 .item:hover h3{
   bottom: 0;
 }
+
+.copyright{
+    display: flex;
+    font-family: 'Monstserrat';
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: -70px;
+    margin-bottom: -100px;
+    justify-content: center;
+    align-content: center;
+}
 @media only screen and (min-width:900px){
     .container{
         max-width: 1160px;
